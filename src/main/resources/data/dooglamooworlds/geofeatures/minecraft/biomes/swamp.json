@@ -1,0 +1,14 @@
+{
+  "type": "biome",
+  "temperature": 2,
+  "precipitation": 3,
+  "uplift": {
+    "max": 1
+  },
+  "erosion": {
+    "max": 2
+  },
+  "elevation": {
+    "min": 2
+  }
+}

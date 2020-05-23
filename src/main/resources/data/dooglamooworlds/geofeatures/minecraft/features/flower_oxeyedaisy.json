@@ -1,0 +1,8 @@
+{
+  "type": "feature",
+  "rarity": 0.0005,
+  "precipitation": 2,
+  "era": {
+    "min": 1
+  }
+}

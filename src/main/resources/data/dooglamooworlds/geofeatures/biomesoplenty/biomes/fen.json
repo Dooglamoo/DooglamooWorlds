@@ -1,0 +1,24 @@
+{
+  "type": "biome",
+  "domain": "biomesoplenty",
+  "temperature": 1,
+  "precipitation": 1,
+  "erosion": {
+    "min": 1,
+    "max": 2
+  },
+  "volcanism": {
+    "min": 1,
+    "max": 2
+  },
+  "uplift": 0,
+  "era": {
+    "min": 1,
+    "max": 2
+  },
+  "density": {
+    "min": 1,
+    "max": 2
+  },
+  "elevation": 2
+}

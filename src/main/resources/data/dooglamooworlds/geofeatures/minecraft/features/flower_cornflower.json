@@ -1,0 +1,14 @@
+{
+  "type": "feature",
+  "rarity": 0.0005,
+  "precipitation": {
+    "min": 1,
+    "max": 2
+  },
+  "erosion": {
+    "min": 2
+  },
+  "era": {
+    "min": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "feature",
+  "rarity": 0.003,
+  "temperature": 0,
+  "precipitation": {
+    "min": 2
+  },
+  "uplift": {
+    "min": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "block",
+  "temperature": 2,
+  "precipitation": 0,
+  "volcanism": {
+    "max": 2
+  },
+  "uplift": {
+    "min": 2
+  }
+}

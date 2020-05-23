@@ -1,0 +1,13 @@
+{
+  "type": "feature_ocean",
+  "rarity": 0.01,
+  "temperature": {
+    "min": 2
+  },
+  "precipitation": {
+    "min": 1
+  },
+  "era": {
+    "min": 1
+  }
+}

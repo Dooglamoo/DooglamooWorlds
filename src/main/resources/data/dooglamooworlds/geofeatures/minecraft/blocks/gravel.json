@@ -1,0 +1,11 @@
+{
+  "type": "block",
+  "temperature": 1,
+  "precipitation": 0,
+  "era": {
+    "max": 2
+  },
+  "uplift": {
+    "min": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "block",
+  "precipitation": {
+    "max": 1
+  },
+  "temperature": 3,
+  "era": {
+    "min": 1
+  },
+  "uplift": 0,
+  "elevation": {
+    "max": 2
+  }
+}

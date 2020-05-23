@@ -1,0 +1,16 @@
+{
+  "type": "feature",
+  "rarity": 0.001,
+  "precipitation": {
+    "min": 2
+  },
+  "uplift": {
+    "min": 2
+  },
+  "density": {
+    "min": 2
+  },
+  "era": {
+    "min": 1
+  }
+}

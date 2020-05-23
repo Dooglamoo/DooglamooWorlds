@@ -1,0 +1,28 @@
+{
+  "type": "feature",
+  "rarity": 0.001,
+  "temperature": {
+    "min": 1,
+    "max": 2
+  },
+  "precipitation": {
+    "min": 2
+  },
+  "erosion": {
+    "min": 1
+  },
+  "volcanism": {
+    "min": 1,
+    "max": 2
+  },
+  "uplift": {
+    "max": 2
+  },
+  "era": {
+    "max": 1
+  },
+  "elevation": {
+    "min": 1,
+    "max": 2
+  }
+}

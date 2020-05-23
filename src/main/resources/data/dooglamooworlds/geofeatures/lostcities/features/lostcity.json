@@ -1,0 +1,10 @@
+{
+  "type": "feature",
+  "rarity": 1.0,
+  "elevation": {
+    "min": 2
+  },
+  "uplift": {
+    "max": 1
+  }
+}

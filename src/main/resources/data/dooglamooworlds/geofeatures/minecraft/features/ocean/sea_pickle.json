@@ -1,0 +1,9 @@
+{
+  "type": "feature_ocean",
+  "rarity": 1.0,
+  "temperature": 3,
+  "erosion": {
+    "max": 1
+  },
+  "elevation": 1
+}

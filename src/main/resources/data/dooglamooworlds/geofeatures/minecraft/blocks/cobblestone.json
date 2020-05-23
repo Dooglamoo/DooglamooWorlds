@@ -1,0 +1,7 @@
+{
+  "type": "block",
+  "era": {
+    "min": 2
+  },
+  "volcanism": 3
+}

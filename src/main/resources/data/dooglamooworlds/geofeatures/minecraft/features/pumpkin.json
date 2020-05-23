@@ -1,0 +1,14 @@
+{
+  "type": "feature",
+  "rarity": 0.00002,
+  "volcanism": 1,
+  "precipitation": {
+    "min": 1
+  },
+  "temperature": {
+    "min": 1
+  },
+  "era": {
+    "min": 1
+  }
+}

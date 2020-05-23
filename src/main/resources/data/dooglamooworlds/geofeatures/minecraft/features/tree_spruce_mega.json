@@ -1,0 +1,14 @@
+{
+  "type": "feature",
+  "rarity": 0.02,
+  "temperature": {
+    "max": 1
+  },
+  "precipitation": 3,
+  "uplift": {
+    "min": 2
+  },
+  "era": {
+    "min": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "feature",
+  "rarity": 0.0005,
+  "volcanism": {
+    "min": 2
+  },
+  "era": {
+    "max": 2
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "block_ore",
+  "rarity": [0.0, 0.1, 0.0],
+  "spacing": 61,
+  "density": 0,
+  "requirements": [{"temperature": "high"}],
+  "modifiers": [{"erosion": "low"}, {"era": "high"}]
+}

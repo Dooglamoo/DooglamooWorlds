@@ -1,0 +1,7 @@
+{
+  "type": "block_ore",
+  "rarity": [0.0, 0.004, 0.0],
+  "spacing": 5,
+  "depth": -1,
+  "requirements": [{"erosion": "high"}]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "block_ore",
+  "rarity": [0.0, 0.00085, 0.0],
+  "spacing": 7,
+  "depth": -1,
+  "density": 3
+}

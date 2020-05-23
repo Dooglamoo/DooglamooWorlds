@@ -1,0 +1,9 @@
+{
+  "type": "biome",
+  "precipitation": 0,
+  "temperature": 2,
+  "uplift": 3,
+  "elevation": {
+    "min": 2
+  }
+}

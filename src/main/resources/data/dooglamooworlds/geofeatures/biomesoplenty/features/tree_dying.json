@@ -1,0 +1,16 @@
+{
+  "type": "feature",
+  "rarity": 0.001,
+  "temperature": {
+    "min": 1
+  },
+  "volcanism": {
+    "min": 2
+  },
+  "era": {
+    "max": 1
+  },
+  "elevation": {
+    "min": 1
+  }
+}

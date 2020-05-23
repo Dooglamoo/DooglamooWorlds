@@ -1,0 +1,9 @@
+{
+  "type": "feature",
+  "rarity": 0.0005,
+  "temperature": 1,
+  "precipitation": {
+    "min": 1,
+    "max": 2
+  }
+}

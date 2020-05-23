@@ -1,0 +1,9 @@
+{
+  "type": "feature_ocean",
+  "rarity": 0.008,
+  "temperature": 3,
+  "uplift": {
+    "max": 1
+  },
+  "elevation": 1
+}

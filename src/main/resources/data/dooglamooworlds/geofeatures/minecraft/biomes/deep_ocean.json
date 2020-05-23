@@ -1,0 +1,11 @@
+{
+  "type": "biome_ocean",
+  "elevation": 0,
+  "temperature": {
+    "min": 1,
+    "max": 2
+  },
+  "precipitation": {
+    "max": 1
+  }
+}

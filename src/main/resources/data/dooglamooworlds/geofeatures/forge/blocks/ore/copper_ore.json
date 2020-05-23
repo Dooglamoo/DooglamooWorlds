@@ -1,0 +1,8 @@
+{
+  "type": "block_ore",
+  "rarity": [0.05, 0.1, 0.2],
+  "spacing": 41,
+  "density": 2,
+  "requirements": [{"uplift": "high"}],
+  "modifiers": [{"volcanism": "low"}, {"precipitation": "low"}]
+}
